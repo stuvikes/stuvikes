@@ -7,7 +7,7 @@ Meu nome é Arthur dos Santos Neves, tenho 13 anos. ✌
 
 ### Minhas habilidades 
 
-Sou estudante de Python e pretendo me profissionaliza na área de desktop com python. 🐍
+Sou estudante de Python e de javascripte pretendo me profissionaliza na área de desktop com python. 🐍
 
 ### Contato
 
