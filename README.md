@@ -1,6 +1,3 @@
-
-# Sou apenas mais um carioca fazendo os seus corres 💻🐍
-
 ### Sobre mim
 
 Meu nome é Arthur dos Santos Neves, tenho 13 anos. ✌
